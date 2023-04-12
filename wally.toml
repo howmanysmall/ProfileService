@@ -1,0 +1,11 @@
+[package]
+name = "howmanysmall/profile-service"
+version = "1.0.2"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+
+[dependencies]
+Janitor = "howmanysmall/janitor@1.15.1"
+Log = "howmanysmall/log@1.0.1"
+Promise = "evaera/promise@4.0.0-rc.2"
+Signal = "howmanysmall/better-signal@1.0.0"
